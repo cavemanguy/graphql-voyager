@@ -9,7 +9,7 @@
     "graphql": "^0.9.0",
     "graphql-server-hapi": "^1.0.0",
     "graphql-voyager": "../",
-    "hapi": "^16.4.3",
+    "hapi": "^17.0.0",
     "koa": "^2.3.0",
     "koa-graphql": "^0.7.1",
     "koa-router": "^7.2.1"
